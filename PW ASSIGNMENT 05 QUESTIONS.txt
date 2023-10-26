@@ -1,0 +1,5 @@
+1. What is SEO and explain the importance of SEO?
+2. Create an HTML document with appropriate <title> and <meta> tags for SEO optimization. Ensure the title is descriptive and the meta description is concise.
+3. What are the Benefits of Using meta tags
+4. Create an HTML document that properly incorporates semantic elements like <header>, <article>, <section>, or <nav> to improve SEO and document structure.
+5. Define Favicon and give an illustrative example.
